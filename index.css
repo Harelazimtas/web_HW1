@@ -1,0 +1,33 @@
+nav{
+    display: block;
+    text-align: center;
+    margin: -10px auto;
+    height: 30px;
+    width: 100%;
+    background-color: lightskyblue;
+}
+
+a{
+    color:rgba(13, 13, 189, 0.767);
+    text-decoration: none;
+    padding-right: 30px;
+    cursor: pointer;
+    margin: 10px 0px;
+    
+    
+}
+
+h1{
+    text-align: center;
+    margin: 15px auto;
+}
+
+.divImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: paleturquoise;
+}
